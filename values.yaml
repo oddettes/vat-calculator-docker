@@ -1,0 +1,2 @@
+image: oddettes/vat:<+pipeline.sequenceId>
+replicas: 1
